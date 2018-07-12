@@ -14,6 +14,12 @@ var _data = require('./lib/data');
 var handlers = require('./lib/handlers');
 var helpers = require('./lib/helpers');
 
+// @TODO Get RID OF THIS
+helpers.sendTwilioSms('9391401369','Hello!', function(err){
+    console.log('This was the error', err);
+    
+});
+
 
 // // Testing
 // // @TODO delete this
