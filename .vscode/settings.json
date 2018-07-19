@@ -2,6 +2,7 @@
     "files.autoSave": "afterDelay",
     "editor.wordWrap": "on",
     "cSpell.words": [
-        "abcdefghijklmnopqrstuvwxyz"
+        "abcdefghijklmnopqrstuvwxyz",
+        "zlip"
     ]
 }
